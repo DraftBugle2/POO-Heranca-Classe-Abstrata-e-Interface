@@ -50,6 +50,6 @@ Este exercício demonstra a utilização de interfaces para gerenciar diferentes
 1. Certifique-se de ter o Java JDK instalado na sua máquina.
 2. Importe os projetos para um ambiente de desenvolvimento como o IntelliJ IDEA.
 3. Compile e execute os arquivos `.java` para verificar a funcionalidade de cada exercício.# Atividade-Heranca-Classe-Abstrata-e-Interface
+
+   
 # Atividade-Heranca-Classe-Abstrata-e-Interface
-# Atividade-Heranca-Classe-Abstrata-e-Interface
-# POO-Heranca-Classe-Abstrata-e-Interface
